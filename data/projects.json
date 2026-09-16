@@ -1,0 +1,278 @@
+{
+  "sectionTitle": "Selected Work",
+  "projects": [
+    {
+      "title": "3D Human Mesh Reconstruction",
+      "description": "Built a 3D human mesh reconstruction pipeline from monocular video using SMPL-X, PyTorch tensor processing, and CPU-optimized batch rendering.",
+      "category": "Software Development",
+      "technologies": [
+        "PyTorch",
+        "SMPL-X",
+        "Trimesh",
+        "Pyrender",
+        "Gradio"
+      ],
+      "featured": true,
+      "github": "https://github.com/adullagayathri/3d-mesh-reconstruction"
+    },
+    {
+      "title": "AI Agent Microservice Platform",
+      "description": "Built a containerized multi-agent platform with FastAPI orchestration and Redis messaging, supporting 50+ concurrent agents, health checks, retries, and structured logging.",
+      "category": "Backend Development",
+      "technologies": [
+        "FastAPI",
+        "Docker",
+        "Redis",
+        "Multi-Agent Systems",
+        "Distributed Systems"
+      ],
+      "featured": true,
+      "github": "https://github.com/adullagayathri/AI-Agent-Microservice-Platform"
+    },
+    {
+      "title": "Deepfake Detection — β-Variational Autoencoder",
+      "description": "Developed a β-VAE deepfake detection framework using 128D latent embeddings, KL-divergence anomaly detection, and logistic regression, achieving 98% accuracy and 0.997 ROC-AUC.",
+      "category": "Data Science",
+      "technologies": [
+        "PyTorch",
+        "VAE",
+        "Generative AI",
+        "AI Security"
+      ],
+      "featured": true,
+      "github": "https://github.com/adullagayathri/Deepfake_Detection"
+    },
+    {
+      "title": "Housing Code Violation Detection Pipeline",
+      "description": "Built a production CV pipeline using GPMF telemetry, SSIM keyframe extraction, and Gemini Vision VLM, achieving 90% violation detection accuracy and 90% address resolution across 300K+ parcels.\nImplemented Human-in-the-Loop active learning with Salesforce LWC/Apex for model retraining and validation.",
+      "category": "Software Development",
+      "technologies": [
+        "Computer Vision",
+        "VLM",
+        "Gemini",
+        "Active Learning",
+        "Geospatial Analytics"
+      ],
+      "featured": true,
+      "github": ""
+    },
+    {
+      "title": "Multimodal Movie Genre Classification",
+      "description": "Developed a multimodal late-fusion model combining DistilBERT text embeddings and ResNet-18 visual features; applied weighted BCE loss and evaluated macro/micro F1 and threshold performance.",
+      "category": "Data Science",
+      "technologies": [
+        "PyTorch",
+        "DistilBERT",
+        "ResNet-18",
+        "Multimodal AI"
+      ],
+      "featured": true,
+      "github": "https://adullagayathri.github.io/multimodal-movie-genre-prediction/"
+    },
+    {
+      "title": "Partial Face Recognition Under Occlusion",
+      "description": "Developed an occluded-face recognition pipeline using HOG, SIFT, LBP, color histograms, PCA, SVM, and similarity matching for robust recognition across image variations.",
+      "category": "Software Development",
+      "technologies": [
+        "OpenCV",
+        "SVM",
+        "HOG",
+        "SIFT",
+        "LBP",
+        "PCA"
+      ],
+      "featured": true,
+      "github": "https://github.com/adullagayathri/Partial_Face_Recognition_Under_Occlusion"
+    },
+    {
+      "title": "Role-Based E-Commerce Management System",
+      "description": "Developed a role-based Java desktop application with MySQL backend supporting Admin, Customer Support, Warehouse, Delivery, Supplier, and Fraud Analyst workflows.",
+      "category": "Software Development",
+      "technologies": [
+        "Java",
+        "Swing",
+        "MySQL",
+        "JDBC"
+      ],
+      "featured": false,
+      "github": "https://github.com/adullagayathri/Role-Based_E-Commerce_Management_System"
+    },
+    {
+      "title": "Scalable E-Commerce Data Management System",
+      "description": "Designed a normalized 3NF e-commerce database and contributed SQL optimization plus Python-based data ingestion and data validation.",
+      "category": "Backend Development",
+      "technologies": [
+        "SQL",
+        "SQLite",
+        "Python",
+        "Data Modeling"
+      ],
+      "featured": false,
+      "github": "https://github.com/Jayachandragg/DMQL-FINAL-PROJECT-E-COMMERCE"
+    },
+    {
+      "title": "3D-human-mesh-rendering",
+      "description": "3D human body mesh reconstruction from monocular video using SMPL-X motion parameters, with a CPU-optimized rendering pipeline and Gradio-based comparison UI. Live demo available.",
+      "category": "Backend Development",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "featured": false,
+      "github": "https://github.com/adullagayathri/3D-human-mesh-rendering"
+    },
+    {
+      "title": "multimodal-movie-genre-prediction",
+      "description": "Multimodal deep learning model predicting movie genres by fusing DistilBERT text embeddings with ResNet-18 visual features from posters. Includes live web demo.",
+      "category": "Data Science",
+      "technologies": [
+        "Jupyter Notebook",
+        "HTML",
+        "CSS"
+      ],
+      "featured": false,
+      "github": "https://github.com/adullagayathri/multimodal-movie-genre-prediction"
+    },
+    {
+      "title": "Housing_code_violations",
+      "description": "Production computer vision pipeline converting GoPro dashcam footage into address-resolved housing code violation reports — GPMF telemetry processing, SSIM keyframe extraction, and Gemini Vision VLM classification. 90% detection + 90% address-resolution accuracy across 300K parcels.UI demo is live",
+      "category": "Backend Development",
+      "technologies": [
+        "Python"
+      ],
+      "featured": false,
+      "github": "https://github.com/adullagayathri/Housing_code_violations"
+    },
+    {
+      "title": "surecast",
+      "description": "Hands-on learning experience with modern frameworks",
+      "category": "Backend Development",
+      "technologies": [
+        "Python"
+      ],
+      "featured": false,
+      "github": "https://github.com/adullagayathri/surecast"
+    },
+    {
+      "title": "modelcard",
+      "description": "Learning project built with modern web technologies",
+      "category": "Backend Development",
+      "technologies": [
+        "Python"
+      ],
+      "featured": false,
+      "github": "https://github.com/adullagayathri/modelcard"
+    },
+    {
+      "title": "goodreads_etl_pipeline",
+      "description": "Learning project built with modern web technologies",
+      "category": "Backend Development",
+      "technologies": [
+        "Python"
+      ],
+      "featured": false,
+      "github": "https://github.com/adullagayathri/goodreads_etl_pipeline"
+    },
+    {
+      "title": "ai_soc",
+      "description": "Full-featured application built as a learning exercise",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "HTML",
+        "Shell",
+        "PowerShell",
+        "Dockerfile",
+        "Zeek",
+        "Batchfile"
+      ],
+      "featured": false,
+      "github": "https://github.com/adullagayathri/ai_soc"
+    },
+    {
+      "title": "calibratekit",
+      "description": "Educational project for mastering software architecture",
+      "category": "Backend Development",
+      "technologies": [
+        "Python"
+      ],
+      "featured": false,
+      "github": "https://github.com/adullagayathri/calibratekit"
+    },
+    {
+      "title": "creditcardfrauddetection-mlops",
+      "description": "Interactive application built for continuous learning",
+      "category": "Backend Development",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML",
+        "CSS",
+        "Dockerfile"
+      ],
+      "featured": false,
+      "github": "https://github.com/adullagayathri/creditcardfrauddetection-mlops"
+    },
+    {
+      "title": "text-analysis-using-nlp-streamlit",
+      "description": "Personal project for exploring modern development practices",
+      "category": "Backend Development",
+      "technologies": [
+        "Python"
+      ],
+      "featured": false,
+      "github": "https://github.com/adullagayathri/text-analysis-using-nlp-streamlit"
+    },
+    {
+      "title": "fraud-detection-in-python",
+      "description": "Comprehensive project exploring software design patterns",
+      "category": "Software Development",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "featured": false,
+      "github": "https://github.com/adullagayathri/fraud-detection-in-python"
+    },
+    {
+      "title": "driftguard",
+      "description": "Full-featured application built as a learning exercise",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "Dockerfile"
+      ],
+      "featured": false,
+      "github": "https://github.com/adullagayathri/driftguard"
+    },
+    {
+      "title": "adullagayathri.github.io",
+      "description": "My Portfolio",
+      "category": "Data Science",
+      "technologies": [
+        "HTML"
+      ],
+      "featured": false,
+      "github": "https://github.com/adullagayathri/adullagayathri.github.io"
+    },
+    {
+      "title": "drivesafe",
+      "description": "Practice repository for exploring advanced features",
+      "category": "Development",
+      "technologies": [],
+      "featured": false,
+      "github": "https://github.com/adullagayathri/drivesafe"
+    },
+    {
+      "title": "housing_violations",
+      "description": "GitHub repository: housing_violations",
+      "category": "Data Science",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "featured": false,
+      "github": "https://github.com/adullagayathri/housing_violations"
+    }
+  ]
+}

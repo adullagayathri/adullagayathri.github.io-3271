@@ -1,0 +1,15 @@
+{
+  "sectionTitle": "Education",
+  "education": [
+    {
+      "degree": "M.S. in Artificial Intelligence",
+      "school": "State University of New York at Buffalo, Buffalo, NY",
+      "period": "Jan 2025 – May 2026"
+    },
+    {
+      "degree": "B.Tech in Artificial Intelligence",
+      "school": "Mahindra University, Telangana, India",
+      "period": "Aug 2020 – May 2024"
+    }
+  ]
+}

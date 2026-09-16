@@ -1,0 +1,18 @@
+{
+  "profile": {
+    "name": "Gayathri Adulla",
+    "title": "AI Engineer | Generative AI | LLMs | RAG | Agentic AI | MLOps | AI/ML Engineering",
+    "bio": "AI/ML Engineer with 3+ years of experience developing and deploying machine learning, generative AI, and production AI systems using Python, PyTorch, TensorFlow, Scikit-learn, and SQL. Experience building LLM, Transformer, RAG, agentic AI, computer vision, and multimodal applications, including model development, fine-tuning, evaluation, and production deployment. Hands-on with LangChain, LangGraph, LlamaIndex, Hugging Face, OpenAI API, Azure OpenAI, Amazon Bedrock, embeddings, vector databases, LoRA, and PEFT. Experienced in MLOps, LLMOps, model serving, monitoring, and scalable AI infrastructure using MLflow, Airflow, Docker, Kubernetes, FastAPI, AWS, Terraform, Prometheus, and Grafana, with experience in distributed systems, CI/CD, microservices, and production model deployment."
+  },
+  "contact": {
+    "email": "gayathri.adulla@outlook.com",
+    "phone": "617-418-0803",
+    "githubUsername": "adullagayathri",
+    "linkedin": "https://www.linkedin.com/in/gayathri-adulla-924056216/"
+  },
+  "siteConfig": {
+    "domain": "",
+    "title": "Gayathri Adulla - Portfolio",
+    "description": "AI/ML Engineer with 3+ years of experience developing and deploying machine learning, generative AI, and production AI systems using Python, PyTorch, TensorFlow, Scikit-learn, and SQL. Experience building LLM, Transformer, RAG, agentic AI, computer vision, and multimodal applications, including model development, fine-tuning, evaluation, and production deployment. Hands-on with LangChain, LangGraph, LlamaIndex, Hugging Face, OpenAI API, Azure OpenAI, Amazon Bedrock, embeddings, vector databases, LoRA, and PEFT. Experienced in MLOps, LLMOps, model serving, monitoring, and scalable AI infrastructure using MLflow, Airflow, Docker, Kubernetes, FastAPI, AWS, Terraform, Prometheus, and Grafana, with experience in distributed systems, CI/CD, microservices, and production model deployment."
+  }
+}

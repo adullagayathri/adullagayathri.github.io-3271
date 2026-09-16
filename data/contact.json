@@ -1,0 +1,24 @@
+{
+  "sectionTitle": "Get in touch",
+  "subtitle": "Have a project in mind or a role to fill? Let's connect.",
+  "email": "gayathri.adulla@outlook.com",
+  "location": "New York, NY, USA",
+  "availability": "Open to opportunities",
+  "socialLinks": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/adullagayathri",
+      "icon": "fab fa-github"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gayathri-adulla-924056216/",
+      "icon": "fab fa-linkedin"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:gayathri.adulla@outlook.com",
+      "icon": "fas fa-envelope"
+    }
+  ]
+}

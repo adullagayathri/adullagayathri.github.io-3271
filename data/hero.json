@@ -1,0 +1,56 @@
+{
+  "eyebrow": "AI ENGINEER | GENERATIVE AI | LLMS | RAG | AGENTIC AI | MLOPS | AI/ML ENGINEERING",
+  "greeting": "Hello, I'm",
+  "name": "Gayathri Adulla",
+  "role": "AI Engineer | Generative AI | LLMs | RAG | Agentic AI | MLOps | AI/ML Engineering",
+  "tagline": "AI/ML Engineer with 3+ years of experience developing and deploying machine learning, generative AI, and production AI systems using Python, PyTorch, TensorFlow, Scikit-learn, and SQL. Experience building LLM, Transformer, RAG, agentic AI, computer vision, and multimodal applications, including model development, fine-tuning, evaluation, and production deployment. Hands-on with LangChain, LangGraph, LlamaIndex, Hugging Face, OpenAI API, Azure OpenAI, Amazon Bedrock, embeddings, vector databases, LoRA, and PEFT. Experienced in MLOps, LLMOps, model serving, monitoring, and scalable AI infrastructure using MLflow, Airflow, Docker, Kubernetes, FastAPI, AWS, Terraform, Prometheus, and Grafana, with experience in distributed systems, CI/CD, microservices, and production model deployment.",
+  "cta": {
+    "buttons": [
+      {
+        "text": "Get In Touch",
+        "href": "#contact",
+        "type": "primary"
+      },
+      {
+        "text": "View Projects",
+        "href": "#work",
+        "type": "secondary"
+      }
+    ]
+  },
+  "socialLinks": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/adullagayathri",
+      "icon": "fab fa-github"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gayathri-adulla-924056216/",
+      "icon": "fab fa-linkedin"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:gayathri.adulla@outlook.com",
+      "icon": "fas fa-envelope"
+    }
+  ],
+  "stats": [
+    {
+      "value": "3+",
+      "label": "Years Experience"
+    },
+    {
+      "value": "8",
+      "label": "Projects"
+    },
+    {
+      "value": "2",
+      "label": "Companies"
+    },
+    {
+      "value": "124+",
+      "label": "Technologies"
+    }
+  ]
+}

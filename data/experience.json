@@ -1,0 +1,36 @@
+{
+  "sectionTitle": "Experience",
+  "experiences": [
+    {
+      "title": "AI/ML Engineer",
+      "company": "Cisco Systems, USA",
+      "period": "Jan 2026 – Present",
+      "responsibilities": [
+        "Develop and deploy machine learning and predictive modeling solutions using Python, PyTorch, TensorFlow, and SQL, improving model accuracy by 18% for network automation and operational use cases",
+        "Build LLM, Transformer, and RAG applications using LangChain, LangGraph, Hugging Face Transformers, embeddings, vector databases, and semantic search, improving contextual response accuracy by 30% across enterprise knowledge workflows",
+        "Develop multimodal AI and computer vision applications using PyTorch, fine-tuning techniques, LoRA, and PEFT for image analysis and visual event detection, increasing inference accuracy by 20%, optimize model serving with vLLM and Triton Inference Server for production workloads",
+        "Engineer production ML/LLM pipelines using MLflow, Airflow, Docker, Kubernetes, GitHub Actions, and CI/CD, implementing model versioning, experiment tracking, automated testing, and deployment workflows that reduced release cycles by 40%",
+        "Develop scalable AI microservices using FastAPI, Redis, Docker, Kubernetes, and AWS, incorporating Terraform/IaC, distributed training, and cloud services including SageMaker and Bedrock to support concurrent workloads and reliable model deployment",
+        "Implement LLM evaluation and production observability using RAGAS, LangSmith, TruLens, Prometheus, and Grafana, monitoring model quality, latency, data/model drift, retrieval performance, and service reliability across deployed AI applications",
+        "Optimize large-scale data processing and feature engineering pipelines using Apache Spark, SQL, and PostgreSQL, reducing model training time by 25% across enterprise ML workflows",
+        "Implement AI security and responsible AI practices across production services, including guardrails, prompt-injection mitigation, access controls, data protection, secure API deployment, and reliability controls",
+        "develop MCP-based integrations connecting LLMs with enterprise tools and contextual data sources for tool calling and workflow automation"
+      ]
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Hexaware Technologies, India",
+      "period": "Jul 2022–Jun 2024",
+      "responsibilities": [
+        "Developed predictive ML models using Python, TensorFlow, PyTorch, Scikit-learn, and SQL, improving forecasting accuracy by 17% through feature engineering and hyperparameter tuning",
+        "Built ETL and feature engineering pipelines using Python, Apache Spark, PySpark, and PostgreSQL, reducing data preparation effort by 45%",
+        "Deployed ML services using FastAPI, Docker, AWS, Git, and CI/CD, reducing deployment time by 30% across client engagements",
+        "Implemented MLflow and Airflow workflows for experiment tracking, model versioning, training, validation, and deployment",
+        "Optimized production models through feature selection, model evaluation, hyperparameter tuning, and inference optimization, increasing prediction accuracy by 15%",
+        "Implemented model monitoring and observability using MLflow, Prometheus, and Grafana to track performance, latency, data quality, and model drift, maintaining 95%+ model stability",
+        "Applied ML testing, data validation, and security practices using Pytest, Git, Docker, AWS, and access controls to support reliable production ML services",
+        "Built scalable ML microservices using FastAPI, Docker, Kubernetes, and Redis to support concurrent inference workloads and improve service reliability"
+      ]
+    }
+  ]
+}

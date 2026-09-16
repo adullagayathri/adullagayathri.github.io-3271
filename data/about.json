@@ -1,0 +1,7 @@
+{
+  "sectionTitle": "About",
+  "content": [
+    "AI/ML Engineer with 3+ years of experience developing and deploying machine learning, generative AI, and production AI systems using Python, PyTorch, TensorFlow, Scikit-learn, and SQL. Experience building LLM, Transformer, RAG, agentic AI, computer vision, and multimodal applications, including model development, fine-tuning, evaluation, and production deployment.",
+    "Hands-on with LangChain, LangGraph, LlamaIndex, Hugging Face, OpenAI API, Azure OpenAI, Amazon Bedrock, embeddings, vector databases, LoRA, and PEFT. Experienced in MLOps, LLMOps, model serving, monitoring, and scalable AI infrastructure using MLflow, Airflow, Docker, Kubernetes, FastAPI, AWS, Terraform, Prometheus, and Grafana, with experience in distributed systems, CI/CD, microservices, and production model deployment."
+  ]
+}
