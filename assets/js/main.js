@@ -235,7 +235,7 @@
   }
 
   // Real company logos (light chip); anything not listed falls back to a monogram.
-  const COMPANY_LOGOS = { "Cigna Group": "cigna.svg", "Tata Capital": "tata.svg" };
+  const COMPANY_LOGOS = { "Cisco Systems": "cisco.svg", "Hexaware Technologies": "hexaware.svg" };
   function companyLogoFile(company) {
     const clean = String(company == null ? "" : company)
       .split(",")[0]
